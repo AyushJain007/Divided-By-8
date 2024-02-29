@@ -20,5 +20,4 @@ This project is designed to validate entries of integers. An entry is considered
 Instructions on how to compile and run this project will depend on the environment setup and the tools available for compiling C++ code. Generally, the steps involve:
 
 1. Compiling the C++ file 
-   ```sh
   any compiler can be used to compile this code, I used Visual Studio to write and compile this code.
