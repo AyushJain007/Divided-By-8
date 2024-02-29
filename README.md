@@ -1,4 +1,6 @@
-# Assignment 1 - Ayush Jain
+# Assignment 1 - Ayush Jain 
+
+Roll Number: 2310997048
 
 ## Date of Submission
 
@@ -19,4 +21,4 @@ Instructions on how to compile and run this project will depend on the environme
 
 1. Compiling the C++ file 
    ```sh
-   g++ -o main entry.cpp
+  any compiler can be used to compile this code, I used Visual Studio to write and compile this code.
